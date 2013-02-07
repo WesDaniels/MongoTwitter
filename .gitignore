@@ -4,6 +4,11 @@
 block_github/
 
 #################
+## Block Node Modules
+#################
+node_modules/
+
+#################
 ## Eclipse
 #################
 

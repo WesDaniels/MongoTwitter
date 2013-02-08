@@ -36,5 +36,5 @@ db.open(function(err, client) {
 			});
 			if (err != null) console.log(err);
 		});
-    });
+	});
 });

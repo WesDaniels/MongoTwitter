@@ -7,7 +7,7 @@ Capture Twitter stream and store tweets to MongoDB
 
 ## Files Not Included
 
-The project has two files containing my API keys I have github ignoring.
+The project contains two files with my API keys, examples below.
 
 - /block_github/mongolab.json
   <pre><code>{
